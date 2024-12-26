@@ -7,7 +7,7 @@ Front-end Developer
 I’m a Front-end Developer who loves turning creative ideas into stunning, user-friendly websites. I’m all about blending design and functionality to make things that not only look great but work smoothly. When I’m not coding, you can catch me enjoying baseball, gaming, making music, or geeking out over computers—whether it’s the hardware or the software. Technology is my passion, and I’m excited to keep learning and growing in this amazing field!
 
 * 🌍  I'm based in New York City
-* 🖥️  See my portfolio at [yefry.dev](http://erre)
+* 🖥️  See my portfolio at [yefry.dev](http://yefry.dev)
 * ✉️  You can contact me at [yefrymsp@gmail.com](mailto:yefrymsp@gmail.com)
 * 🧠  I'm learning Web Development and Cloud Computing
 
